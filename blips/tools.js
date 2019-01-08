@@ -27,7 +27,7 @@
     {
       blip: "Jest"
       ,ring: "adopt"
-      ,description: "Test runner with everything you need out of the box https://gziolo.pl/2017/06/17/picking-jest-over-mocha/"
+      ,description: "Test runner with everything you need out of the box https://github.com/quotecenter/guild-qa-automation/blob/master/docs/testing-tools/jest.md"
     },  
     {
       blip: "Webpack"
